@@ -5,5 +5,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoyMehta98&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true@show_ownder=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyMehta98&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hJoyMehta98&theme=neon-palenight&hide_border=true)
